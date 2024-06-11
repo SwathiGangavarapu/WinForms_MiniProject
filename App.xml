@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="swathi" value="Server=10.9.176.202;Database=NORTHWND;User Id=NORTHWND;Password=133tcru@NOS;"/>
+	</appSettings>
+</configuration>
